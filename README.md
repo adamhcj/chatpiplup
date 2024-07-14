@@ -34,3 +34,7 @@ After receiving a response, pyautogui library types the response out.
 There is a queue implemented, and the message will only be processed when it is in the front of the queue.
 
 Prompt used: ```Reply in a cute uwu way. Give short response.```
+
+Modify ```model = "llama3"``` if needed.
+
+Modify ```if fc == "Friend Chat":``` and ```elif fc == "Clan Chat"``` to the name of your chats correspondingly.
