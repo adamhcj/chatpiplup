@@ -1,5 +1,5 @@
 # 💬🐧 chatpiplup
-Runelite plugin integration with Ollama through Python Backend to respond to chat messages in Oldschool Runescape
+Runelite plugin integration with Ollama through Python Backend to respond to chat messages in Oldschool Runescape with Generative AI
 ![image](https://github.com/user-attachments/assets/f987e392-5d00-4bb4-a0dc-62c68a1d4a52)
 
 # 📹 VIDEO PREVIEW
